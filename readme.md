@@ -54,7 +54,7 @@
 ## Papers (TBU)
 
 - 이성주, 조남익. "Multi-scale CAM을 이용한 X-ray 이물질 분류 신경망 성능 향상에 대한 연구", 한국방송미디어공학회 학술발표대회 논문집, 2021.
-- 이성주, 조남익. "Spectral Pooling: A study on the various possibilities of the DFT-based Pooling layer", Proceedings of the Korean Society of Broadcast Engineers Conference, 2020.
+- 이성주, 조남익. "Spectral Pooling: DFT 기반 풀링 계층이 보여주는 여러 가능성에 대한 연구", 한국방송미디어공학회 학술발표대회 논문집, 2020.
 
 ---
 
