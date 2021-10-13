@@ -4,24 +4,22 @@
 
 ## Introductions
 
----
-
 - 이름: 이성주
 - Email: thomas11809@snu.ac.kr
 - GitHub: github.com/thomas11809
 
-## Research Interests
-
 ---
+
+## Research Interests
 
 - Computer Vision
 - Deep Learning for Image Processing
 - Audio Signal Processing
 - Graph Neural Networks
 
-## Skills
-
 ---
+
+## Skills
 
 - Python Programming
   - Pytorch
@@ -29,9 +27,9 @@
 - MATLAB Programming
 - R Programming
 
-## Project Experiences
-
 ---
+
+## Project Experiences
 
 1. Image Detections on X-ray domains
 
@@ -45,11 +43,13 @@
    - 원단 검사 오류 검출
    - 3D 프린터 오류 검출
 
-## Other Experiences (TBU)
-
 ---
 
+## Other Experiences (TBU)
+
 - 삼성전자 GTC 인턴
+
+---
 
 ## Papers (TBU)
 
@@ -57,6 +57,6 @@
 
 ## Education
 
----
-
 2020.2. B.S in Department of ECE, Seoul National University
+
+---
