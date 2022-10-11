@@ -46,8 +46,13 @@
    2) 원단 검사 오류 검출
    3) 3D 프린터 오류 검출
    4) 적설량 측정을 위한 Scene Classification/Analysis
+   <br/>
 
-3. Macro program (TBU)
+3. Macro programming (TBU)
+<br/>
+
+4. Open Data Preprocessing & Feature Engineering (TBU)
+<br/>
 
 ---
 
