@@ -67,8 +67,8 @@
    1) Midas IT coworks
 <br/>
 
-7. Open Data Preprocessing & Feature Engineering (TBU)
-  1) Various competitions
+6. Open Data Preprocessing & Feature Engineering (TBU)
+   1) Various competitions
 <br/>
 
 ---
